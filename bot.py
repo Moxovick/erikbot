@@ -11,7 +11,7 @@ from telegram.ext import (
 # ==============================
 #  НАСТРОЙКИ
 # ==============================
-BOT_TOKEN = "8408970367:AAEmn9-g833b_r4mjIvRTBlLBHLSpY946t8"
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 # Путь к фото (должно лежать рядом с bot.py)
 PHOTO_PATH = os.path.join(os.path.dirname(__file__), "photo_2026-07-12_03-14-11.jpg")
