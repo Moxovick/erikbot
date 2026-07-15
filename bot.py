@@ -38,7 +38,7 @@ BOT1_TEXT = (
     "Нажмите кнопку «ХОЧУ БОТА» 👇\n"
     "И получите доступ к AI-боту и нашей команде."
 )
-BOT1_LINK = "https://t.me/David_Space11"
+BOT1_LINK = "https://t.me/m/bTPp38E_YTcx"
 BOT1_BTN = "🚀 ХОЧУ БОТА"
 
 # --- Бот 2: Erik Trade (UA) ---
